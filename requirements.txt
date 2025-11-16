@@ -1,0 +1,4 @@
+streamlit
+pycryptodome
+qrcode
+pillow
